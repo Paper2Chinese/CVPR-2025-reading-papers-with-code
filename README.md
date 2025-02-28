@@ -110,14 +110,14 @@
 
 <a name="EmAI"></a>
 # 具身智能（Embodied AI）
-### InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions
-### Link：[https://arxiv.org/pdf/2502.20390](https://arxiv.org/pdf/2502.20390)
-### Code：[https://sirui-xu.github.io/InterMimic/](https://sirui-xu.github.io/InterMimic/)
+#### InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions
+#### Link：[https://arxiv.org/pdf/2502.20390](https://arxiv.org/pdf/2502.20390)
+#### Code：[https://sirui-xu.github.io/InterMimic/](https://sirui-xu.github.io/InterMimic/)
 
 
-### G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
-### Link：[https://arxiv.org/pdf/2411.18369](https://arxiv.org/pdf/2411.18369)
-### Code：https://tianxingchen.github.io/G3Flow/
+#### G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
+#### Link：[https://arxiv.org/pdf/2411.18369](https://arxiv.org/pdf/2411.18369)
+#### Code：https://tianxingchen.github.io/G3Flow/
 
 
 
@@ -126,21 +126,21 @@
 
 # 3DGS(Gaussian Splatting)
 
-### Generative Gaussian Splatting for Unbounded 3D City Generation
-### Link：[https://arxiv.org/pdf/2406.06526](https://arxiv.org/pdf/2406.06526)
-### Code：[https://haozhexie.com/project/gaussian-city](https://haozhexie.com/project/gaussian-city)
+#### Generative Gaussian Splatting for Unbounded 3D City Generation
+#### Link：[https://arxiv.org/pdf/2406.06526](https://arxiv.org/pdf/2406.06526)
+#### Code：[https://haozhexie.com/project/gaussian-city](https://haozhexie.com/project/gaussian-city)
 
-### HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting
-### Link：[https://arxiv.org/pdf/2412.03844](https://arxiv.org/pdf/2412.03844)
-### Code：[https://gujiaqivadin.github.io/hybridgs/](https://gujiaqivadin.github.io/hybridgs/)
+#### HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting
+#### Link：[https://arxiv.org/pdf/2412.03844](https://arxiv.org/pdf/2412.03844)
+#### Code：[https://gujiaqivadin.github.io/hybridgs/](https://gujiaqivadin.github.io/hybridgs/)
 
 <a name="Mamba"></a>
 
 # Mamba / SSM
 
-### MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models
-### Link：[https://arxiv.org/pdf/2405.14338](https://arxiv.org/pdf/2405.14338)
-### Code：[https://github.com/IRMVLab/Mamba4D](https://github.com/IRMVLab/Mamba4D)
+#### MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models
+#### Link：[https://arxiv.org/pdf/2405.14338](https://arxiv.org/pdf/2405.14338)
+#### Code：[https://github.com/IRMVLab/Mamba4D](https://github.com/IRMVLab/Mamba4D)
 
 <a name="Avatars"></a>
 
@@ -150,29 +150,29 @@
 
 # 自动驾驶(Autonomous Driving)
 
-### CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving
-### Link：[https://arxiv.org/pdf/2502.19908](https://arxiv.org/pdf/2502.19908)
+#### CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving
+#### Link：[https://arxiv.org/pdf/2502.19908](https://arxiv.org/pdf/2502.19908)
 
 
-### EVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance
-### Link：[https://arxiv.org/pdf/2502.19694](https://arxiv.org/pdf/2502.19694)
+#### EVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance
+#### Link：[https://arxiv.org/pdf/2502.19694](https://arxiv.org/pdf/2502.19694)
 
 <a name="Backbone"></a>
 
 # Backbone
 
-### OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels
-### Link：[https://arxiv.org/pdf/2502.20087](https://arxiv.org/pdf/2502.20087)
-### Code：[https://bit.ly/4bdbmdl](https://bit.ly/4bdbmdl)
+#### OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels
+#### Link：[https://arxiv.org/pdf/2502.20087](https://arxiv.org/pdf/2502.20087)
+#### Code：[https://bit.ly/4bdbmdl](https://bit.ly/4bdbmdl)
 
 
 <a name="CLIP"></a>
 
 # CLIP
 
-### CLIP Under the Microscope: A Fine-Grained Analysis of Multi-Object Representation
-### Link：[https://arxiv.org/pdf/2502.19842](https://arxiv.org/pdf/2502.19842)
-### Code：[https://clip-analysis.github.io/](https://clip-analysis.github.io/)
+#### CLIP Under the Microscope: A Fine-Grained Analysis of Multi-Object Representation
+#### Link：[https://arxiv.org/pdf/2502.19842](https://arxiv.org/pdf/2502.19842)
+#### Code：[https://clip-analysis.github.io/](https://clip-analysis.github.io/)
 
 <a name="MAE"></a>
 # MAE
@@ -222,32 +222,32 @@
 <a name="VLM"></a>
 # 视觉语言模型(LLM)
 
-### PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction
-### Link：[https://arxiv.org/pdf/2410.17247](https://arxiv.org/pdf/2410.17247)
-### Code：[https://github.com/Cooperx521/PyramidDrop](https://github.com/Cooperx521/PyramidDrop)
+#### PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction
+#### Link：[https://arxiv.org/pdf/2410.17247](https://arxiv.org/pdf/2410.17247)
+#### Code：[https://github.com/Cooperx521/PyramidDrop](https://github.com/Cooperx521/PyramidDrop)
 <a name="MLLM"></a>
 
 # 多模态大语言模型(MLLM)
 
-### Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy
-### Link：[https://arxiv.org/pdf/2502.19902](https://arxiv.org/pdf/2502.19902)
+#### Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy
+#### Link：[https://arxiv.org/pdf/2502.19902](https://arxiv.org/pdf/2502.19902)
 
 <a name="multimodal"></a>
 
 # 多模态
 
-### Do computer vision foundation models learn the low-level characteristics of the human visual system?
-### Link：[https://arxiv.org/pdf/2502.20256](https://arxiv.org/pdf/2502.20256)
-###
+#### Do computer vision foundation models learn the low-level characteristics of the human visual system?
+#### Link：[https://arxiv.org/pdf/2502.20256](https://arxiv.org/pdf/2502.20256)
+####
 
 
-### Knowledge Bridger: Towards Training-free Missing Multi-modality Completion
-### Link：[https://arxiv.org/pdf/2502.19834](https://arxiv.org/pdf/2502.19834)
+#### Knowledge Bridger: Towards Training-free Missing Multi-modality Completion
+#### Link：[https://arxiv.org/pdf/2502.19834](https://arxiv.org/pdf/2502.19834)
 
 
-### SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Redefinition and Split Optimization
-### Link：[https://arxiv.org/pdf/2409.17993](https://arxiv.org/pdf/2409.17993)
-### Code：[https://github.com/Junchen-Yu/SSHNet](https://github.com/Junchen-Yu/SSHNet)
+#### SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Redefinition and Split Optimization
+#### Link：[https://arxiv.org/pdf/2409.17993](https://arxiv.org/pdf/2409.17993)
+#### Code：[https://github.com/Junchen-Yu/SSHNet](https://github.com/Junchen-Yu/SSHNet)
 
 
 
@@ -275,9 +275,9 @@
 
 # 扩散模型(Diffusion Models)
 
-### Attention Distillation: A Unified Approach to Visual Characteristics Transfer
-### Link：[https://arxiv.org/pdf/2502.20235](https://arxiv.org/pdf/2502.20235)
-### Code：https://github.com/xugao97/AttentionDistillation
+#### Attention Distillation: A Unified Approach to Visual Characteristics Transfer
+#### Link：[https://arxiv.org/pdf/2502.20235](https://arxiv.org/pdf/2502.20235)
+#### Code：https://github.com/xugao97/AttentionDistillation
 
 
 
@@ -331,9 +331,9 @@
 
 # 少样本学习(Few-Shot Learning)
 
-### ProAPO: Progressively Automatic Prompt Optimization for Visual Classification
-### Link：[https://arxiv.org/pdf/2502.19844](https://arxiv.org/pdf/2502.19844)
-### Code：[https://github.com/MorningStarOvO/ProAPO](https://github.com/MorningStarOvO/ProAPO)
+#### ProAPO: Progressively Automatic Prompt Optimization for Visual Classification
+#### Link：[https://arxiv.org/pdf/2502.19844](https://arxiv.org/pdf/2502.19844)
+#### Code：[https://github.com/MorningStarOvO/ProAPO](https://github.com/MorningStarOvO/ProAPO)
 
 
 <a name="bio"></a>
@@ -349,9 +349,9 @@
 
 # 医学图像分割(Medical Image Segmentation)
 
-### Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation
-### Link：[https://arxiv.org/pdf/2502.20056](https://arxiv.org/pdf/2502.20056)
-### Code：[https://github.com/mk-runner/MLRG](https://github.com/mk-runner/MLRG)
+#### Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation
+#### Link：[https://arxiv.org/pdf/2502.20056](https://arxiv.org/pdf/2502.20056)
+#### Code：[https://github.com/mk-runner/MLRG](https://github.com/mk-runner/MLRG)
 
 
 
@@ -372,15 +372,15 @@
 
 # 3D点云(3D-Point-Cloud)
 
-### GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors
-### Link：[https://arxiv.org/pdf/2502.19896](https://arxiv.org/pdf/2502.19896)
+#### GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors
+#### Link：[https://arxiv.org/pdf/2502.19896](https://arxiv.org/pdf/2502.19896)
 
 <a name="SSL"></a>
 # 自监督学习(Self-supervised Learning)
 
-### Rethinking Epistemic and Aleatoric Uncertainty for Active Open-Set Annotation: An Energy-Based Approach
-### Link：[https://arxiv.org/pdf/2502.19691](https://arxiv.org/pdf/2502.19691)
-### Code：[https://github.com/chenchenzong/EAOA](https://github.com/chenchenzong/EAOA)
+#### Rethinking Epistemic and Aleatoric Uncertainty for Active Open-Set Annotation: An Energy-Based Approach
+#### Link：[https://arxiv.org/pdf/2502.19691](https://arxiv.org/pdf/2502.19691)
+#### Code：[https://github.com/chenchenzong/EAOA](https://github.com/chenchenzong/EAOA)
 
 <a name="FL"></a>
 # 联邦学习(Federated Learning)
@@ -425,9 +425,9 @@
 
 # Low-level Vision
 
-### One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion
-### Link：[https://arxiv.org/pdf/2502.19854](https://arxiv.org/pdf/2502.19854)
-### Code：[https://github.com/AWCXV/GIFNet](https://github.com/AWCXV/GIFNet)
+#### One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion
+#### Link：[https://arxiv.org/pdf/2502.19854](https://arxiv.org/pdf/2502.19854)
+#### Code：[https://github.com/AWCXV/GIFNet](https://github.com/AWCXV/GIFNet)
 
 
 
@@ -452,9 +452,9 @@
 
 # 图像生成(Image Generation)
 
-### Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network
-### Link：[https://arxiv.org/pdf/2502.19754](https://arxiv.org/pdf/2502.19754)
-### Code：[https://github.com/Qiu-XY/LDSB](https://github.com/Qiu-XY/LDSB)
+#### Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network
+#### Link：[https://arxiv.org/pdf/2502.19754](https://arxiv.org/pdf/2502.19754)
+#### Code：[https://github.com/Qiu-XY/LDSB](https://github.com/Qiu-XY/LDSB)
 
 <a name="Video-Generation"></a>
 
@@ -467,9 +467,9 @@
 <a name="3D-Generation"></a>
 # 3D生成
 
-### InsTaG: Learning Personalized 3D Talking Head from Few-Second Video
-### Link：[https://arxiv.org/pdf/2502.20387](https://arxiv.org/pdf/2502.20387)
-### Code：[https://fictionarry.github.io/InsTaG/](https://fictionarry.github.io/InsTaG/)
+#### InsTaG: Learning Personalized 3D Talking Head from Few-Second Video
+#### Link：[https://arxiv.org/pdf/2502.20387](https://arxiv.org/pdf/2502.20387)
+#### Code：[https://fictionarry.github.io/InsTaG/](https://fictionarry.github.io/InsTaG/)
 
 <a name="Video-Understanding"></a>
 
@@ -496,9 +496,9 @@
 
 # 知识蒸馏(Knowledge Distillation)
 
-### MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection
-### Link：[https://arxiv.org/pdf/2404.04910](https://arxiv.org/pdf/2404.04910)
-### Code：[https://github.com/hoiliu-0801/MonoTAKD](https://github.com/hoiliu-0801/MonoTAKD)
+#### MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection
+#### Link：[https://arxiv.org/pdf/2404.04910](https://arxiv.org/pdf/2404.04910)
+#### Code：[https://github.com/hoiliu-0801/MonoTAKD](https://github.com/hoiliu-0801/MonoTAKD)
 
 
 
@@ -507,8 +507,8 @@
 
 # 图像压缩(Image Compression)
 
-### Balanced Rate-Distortion Optimization in Learned Image Compression
-### Link：[https://arxiv.org/pdf/2502.20161](https://arxiv.org/pdf/2502.20161)
+#### Balanced Rate-Distortion Optimization in Learned Image Compression
+#### Link：[https://arxiv.org/pdf/2502.20161](https://arxiv.org/pdf/2502.20161)
 
 <a name="Stereo-Matching"></a>
 
@@ -533,8 +533,8 @@
 
 # 隐式神经表示(Implicit Neural Representations)
 
-### RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings
-### Link：[https://arxiv.org/pdf/2502.19781](https://arxiv.org/pdf/2502.19781)
+#### RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings
+#### Link：[https://arxiv.org/pdf/2502.19781](https://arxiv.org/pdf/2502.19781)
 
 <a name="Video-Quality-Assessment"></a>
 
@@ -544,14 +544,14 @@
 
 # 数据集(Datasets)
 
-### EEE-Bench: A Comprehensive Multimodal Electrical And Electronics Engineering Benchmark
-### Link：[https://arxiv.org/pdf/2411.01492](https://arxiv.org/pdf/2411.01492)
+#### EEE-Bench: A Comprehensive Multimodal Electrical And Electronics Engineering Benchmark
+#### Link：[https://arxiv.org/pdf/2411.01492](https://arxiv.org/pdf/2411.01492)
 
 
 
 
-### Fish-Vista: A Multi-Purpose Dataset for Understanding & Identification of Traits from Images
-### Code：[https://arxiv.org/pdf/2407.08027](https://arxiv.org/pdf/2407.08027)
+#### Fish-Vista: A Multi-Purpose Dataset for Understanding & Identification of Traits from Images
+#### Code：[https://arxiv.org/pdf/2407.08027](https://arxiv.org/pdf/2407.08027)
 
 <a name="Unlearning"></a>
 # 反学习(Machine Unlearning)
