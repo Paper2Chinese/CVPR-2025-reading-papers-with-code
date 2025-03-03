@@ -127,12 +127,23 @@
 # 3DGS(Gaussian Splatting)
 
 #### Generative Gaussian Splatting for Unbounded 3D City Generation
-#### Link：[https://arxiv.org/pdf/2406.06526](https://arxiv.org/pdf/2406.06526)
-#### Code：[https://haozhexie.com/project/gaussian-city](https://haozhexie.com/project/gaussian-city)
+- Link：[https://arxiv.org/pdf/2406.06526](https://arxiv.org/pdf/2406.06526)
+- Code：[https://haozhexie.com/project/gaussian-city](https://haozhexie.com/project/gaussian-city)
 
 #### HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting
-#### Link：[https://arxiv.org/pdf/2412.03844](https://arxiv.org/pdf/2412.03844)
-#### Code：[https://gujiaqivadin.github.io/hybridgs/](https://gujiaqivadin.github.io/hybridgs/)
+- Link：[https://arxiv.org/pdf/2412.03844](https://arxiv.org/pdf/2412.03844)
+- Code：[https://gujiaqivadin.github.io/hybridgs/](https://gujiaqivadin.github.io/hybridgs/)
+
+
+
+<a name="3D-Reconstruction"></a>
+# 三维重建(3D Reconstruction)
+
+#### MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image
+- Link：[https://arxiv.org/abs/2502.20861](https://arxiv.org/abs/2502.20861)
+- Code：[https://github.com/QINGQINGLE/MESC-3D](https://github.com/QINGQINGLE/MESC-3D)
+
+
 
 <a name="Mamba"></a>
 
@@ -276,10 +287,11 @@
 # 扩散模型(Diffusion Models)
 
 #### Attention Distillation: A Unified Approach to Visual Characteristics Transfer
-#### Link：[https://arxiv.org/pdf/2502.20235](https://arxiv.org/pdf/2502.20235)
-#### Code：https://github.com/xugao97/AttentionDistillation
+- Link：[https://arxiv.org/pdf/2502.20235](https://arxiv.org/pdf/2502.20235)
+- Code：https://github.com/xugao97/AttentionDistillation
 
-
+#### Data-free Universal Adversarial Perturbation with Pseudo-semantic Prior
+- Link: [https://arxiv.org/abs/2502.21048](https://arxiv.org/abs/2502.21048)
 
 
 
@@ -310,6 +322,8 @@
 
 # 异常检测(Anomaly Detection)
 
+#### Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection
+- Link: [https://arxiv.org/abs/2502.20981](https://arxiv.org/abs/2502.20981)
 
 
 <a name="VT"></a>
@@ -325,6 +339,8 @@
 
 # 语义分割(Semantic Segmentation)
 
+#### Towards Generalizable Scene Change Detection
+- Link：[https://arxiv.org/abs/2409.06214](https://arxiv.org/abs/2409.06214)
 
 
 <a name="FewShot"></a>
@@ -350,9 +366,12 @@
 # 医学图像分割(Medical Image Segmentation)
 
 #### Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation
-#### Link：[https://arxiv.org/pdf/2502.20056](https://arxiv.org/pdf/2502.20056)
-#### Code：[https://github.com/mk-runner/MLRG](https://github.com/mk-runner/MLRG)
+- Link：[https://arxiv.org/pdf/2502.20056](https://arxiv.org/pdf/2502.20056)
+- Code：[https://github.com/mk-runner/MLRG](https://github.com/mk-runner/MLRG)
 
+#### LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging
+- Link: [https://arxiv.org/abs/2502.20985](https://arxiv.org/abs/2502.20985)
+- Code: [https://github.com/MIC-DKFZ/LesionLocator](https://github.com/MIC-DKFZ/LesionLocator)
 
 
 <a name="VOS"></a>
@@ -468,8 +487,14 @@
 # 3D生成
 
 #### InsTaG: Learning Personalized 3D Talking Head from Few-Second Video
-#### Link：[https://arxiv.org/pdf/2502.20387](https://arxiv.org/pdf/2502.20387)
-#### Code：[https://fictionarry.github.io/InsTaG/](https://fictionarry.github.io/InsTaG/)
+- Link：[https://arxiv.org/pdf/2502.20387](https://arxiv.org/pdf/2502.20387)
+- Code：[https://fictionarry.github.io/InsTaG/](https://fictionarry.github.io/InsTaG/)
+
+#### CADDreamer: CAD object Generation from Single-view Images
+- Link：[https://arxiv.org/abs/2502.20732](https://arxiv.org/abs/2502.20732)
+
+
+
 
 <a name="Video-Understanding"></a>
 
@@ -490,7 +515,9 @@
 
 # 行为识别(Action Recognition)
 
-
+#### TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation
+- Link：[https://arxiv.org/abs/2408.17135](https://arxiv.org/abs/2408.17135)
+- Code：[https://aigc-explorer.github.io/TIMotion-page](https://aigc-explorer.github.io/TIMotion-page)
 
 <a name="KD"></a>
 
@@ -508,7 +535,14 @@
 # 图像压缩(Image Compression)
 
 #### Balanced Rate-Distortion Optimization in Learned Image Compression
-#### Link：[https://arxiv.org/pdf/2502.20161](https://arxiv.org/pdf/2502.20161)
+- Link：[https://arxiv.org/pdf/2502.20161](https://arxiv.org/pdf/2502.20161)
+
+#### Towards Practical Real-Time Neural Video Compression
+- Link：[https://arxiv.org/abs/2502.20762](https://arxiv.org/abs/2502.20762)
+- Code：[https://github.com/microsoft/DCVC](https://github.com/microsoft/DCVC)
+
+
+
 
 <a name="Stereo-Matching"></a>
 
@@ -572,4 +606,18 @@
 
 
 # 其他(Others)
+
+#### Decoder Gradient Shield: Provable and High-Fidelity Prevention of Gradient-Based Box-Free Watermark Removal
+- Link：[https://arxiv.org/abs/2502.20924](https://arxiv.org/abs/2502.20924)
+
+
+#### DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations
+- Link：[https://arxiv.org/abs/2502.06029](https://arxiv.org/abs/2502.06029)
+- Code：[https://github.com/ipsitmantri/DiTASK](https://github.com/ipsitmantri/DiTASK)
+
+
+
+
+
+
 
