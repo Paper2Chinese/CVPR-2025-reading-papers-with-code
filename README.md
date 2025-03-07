@@ -72,7 +72,6 @@
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D人体Mesh估计(3D Human Mesh Estimation)](#3D-Human-Pose-Estimation)
 - [少样本学习(Few-Shot Learning)](#FewShot)
-- [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
 - [3D生成(3D Generation)](#3D-Generation)
@@ -168,6 +167,21 @@
 - Code：[https://xinxinzuo2353.github.io/imfine/](https://xinxinzuo2353.github.io/imfine/)
 
 
+#### MUSt3R: Multi-view Network for Stereo 3D Reconstruction
+- Link：[https://arxiv.org/pdf/2503.01661](https://arxiv.org/pdf/2503.01661)
+- Code：[https://github.com/naver/must3r](https://github.com/naver/must3r)
+
+#### FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views
+- Link：[https://arxiv.org/pdf/2502.12138](https://arxiv.org/pdf/2502.12138)
+- Code：[https://zhanghe3z.github.io/FLARE/](https://zhanghe3z.github.io/FLARE/)
+
+
+<a name="Depth-Estimation"></a>
+# 深度估计(Depth Estimation)
+
+#### SVDC: Consistent Direct Time-of-Flight Video Depth Completion with Frequency Selective Fusion
+- Link：[https://arxiv.org/pdf/2503.01257](https://arxiv.org/pdf/2503.01257)
+- Code：[https://github.com/Lan1eve/SVDC](https://github.com/Lan1eve/SVDC)
 
 
 
@@ -286,12 +300,33 @@
 - Link：[https://arxiv.org/pdf/2412.17741](https://arxiv.org/pdf/2412.17741)
 - Code：[https://github.com/rui-qian/READ](https://github.com/rui-qian/READ)
 
+#### Words or Vision: Do Vision-Language Models Have Blind Faith in Text?
+- Link：[https://arxiv.org/pdf/2503.02199](https://arxiv.org/pdf/2503.02199)
+
+
+#### Recurrence-Enhanced Vision-and-Language Transformers for Robust Multimodal Document Retrieval
+- Link：[https://arxiv.org/pdf/2503.01980](https://arxiv.org/pdf/2503.01980)
+- Code：[https://github.com/aimagelab/ReT](https://github.com/aimagelab/ReT)
+
+#### Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key
+- Link：[https://arxiv.org/pdf/2501.09695](https://arxiv.org/pdf/2501.09695)
+- Code：[https://opa-dpo.github.io/](https://opa-dpo.github.io/)
+
+
 <a name="MLLM"></a>
 
 # 多模态大语言模型(MLLM)
 
 #### Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy
-#### Link：[https://arxiv.org/pdf/2502.19902](https://arxiv.org/pdf/2502.19902)
+- Link：[https://arxiv.org/pdf/2502.19902](https://arxiv.org/pdf/2502.19902)
+
+#### LLaVA-Critic: Learning to Evaluate Multimodal Models
+- Link：[https://arxiv.org/pdf/2410.02712](https://arxiv.org/pdf/2410.02712)
+- Code：[https://llava-vl.github.io/blog/2024-10-03-llava-critic](https://llava-vl.github.io/blog/2024-10-03-llava-critic)
+
+#### AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models
+- Link：[https://arxiv.org/pdf/2503.00591](https://arxiv.org/pdf/2503.00591)
+
 
 <a name="multimodal"></a>
 
@@ -322,14 +357,21 @@
 - Link：[https://arxiv.org/pdf/2503.03651](https://arxiv.org/pdf/2503.03651)
 - Code：[https://github.com/showlab/DoraCycle](https://github.com/showlab/DoraCycle)
 
-
-
-
 #### LION - FS: Fast & Slow Video - Language Thinker as Online Video Assistant
 - Link：[https://arxiv.org/pdf/2503.03663](https://arxiv.org/pdf/2503.03663)
 - Code：[https://github.com/JiuTian-VL/LION-FS](https://github.com/JiuTian-VL/LION-FS)
 
-  
+#### V^2Dial: Unification of Video and Visual Dialog via Multimodal Experts
+- Link：[https://arxiv.org/pdf/2503.02063](https://arxiv.org/pdf/2503.02063)
+- Code：[https://www.collaborative-ai.org/publications/abdessaied25_cvpr/](https://www.collaborative-ai.org/publications/abdessaied25_cvpr/)
+
+#### WeGen: A Unified Model for Interactive Multimodal Generation as We Chat
+- Link：[https://arxiv.org/pdf/2503.01115](https://arxiv.org/pdf/2503.01115)
+- Code：[https://github.com/hzphzp/WeGen](https://github.com/hzphzp/WeGen)
+
+#### DynRefer: Delving into Region-level Multimodal Tasks via Dynamic Resolution
+- Link：[https://arxiv.org/pdf/2405.16071](https://arxiv.org/pdf/2405.16071)
+- Code：[https://github.com/callsys/DynRefer](https://github.com/callsys/DynRefer)
 
 <a name="NAS"></a>
 
@@ -359,6 +401,16 @@
 
 # ReID(重识别)
 
+#### AirRoom: Objects Matter in Room Reidentification
+- Link：[https://arxiv.org/pdf/2503.01130](https://arxiv.org/pdf/2503.01130)
+- Code：[https://sairlab.org/airroom/](https://sairlab.org/airroom/)
+
+
+<a name="Long-Tail"></a>
+# 长尾分布(Long-Tail)
+#### Improve Representation for Imbalanced Regression through Geometric Constraints
+- Link：[https://arxiv.org/pdf/2503.00876](https://arxiv.org/pdf/2503.00876)
+- Code：[https://github.com/yilei-wu/imbalanced-regression](https://github.com/yilei-wu/imbalanced-regression)
 
 
 <a name="Diffusion"></a>
@@ -376,10 +428,43 @@
 - Link：[https://arxiv.org/pdf/2503.03265](https://arxiv.org/pdf/2503.03265)
 - Code：[https://github.com/UnicomAI/ShortDF](https://github.com/UnicomAI/ShortDF)
 
+
+
+#### h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform
+- Link：[https://arxiv.org/pdf/2503.02187](https://arxiv.org/pdf/2503.02187)
+- Code：[https://github.com/nktoan/h-edit](https://github.com/nktoan/h-edit)
+
+
+#### Denoising Functional Maps: Diffusion Models for Shape Correspondence
+- Link：[https://arxiv.org/pdf/2503.01845](https://arxiv.org/pdf/2503.01845)
+- Code：[https://alekseizhuravlev.github.io/denoising-functional-maps/](https://alekseizhuravlev.github.io/denoising-functional-maps/)
+
+#### Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models
+- Link：[https://arxiv.org/pdf/2503.01774](https://arxiv.org/pdf/2503.01774)
+- Code：[https://research.nvidia.com/labs/toronto-ai/difix3d](https://research.nvidia.com/labs/toronto-ai/difix3d)
+
+#### DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models
+- Link：[https://arxiv.org/pdf/2503.01645](https://arxiv.org/pdf/2503.01645)
+
+#### CacheQuant: Comprehensively Accelerated Diffusion Models
+- Link：[https://arxiv.org/pdf/2503.01323](https://arxiv.org/pdf/2503.01323)
+- Code：[https://github.com/BienLuky/CacheQuant](https://github.com/BienLuky/CacheQuant)
+
+#### Reconciling Stochastic and Deterministic Strategies for Zero-shot Image Restoration using Diffusion Model in Dual
+- Link：[https://arxiv.org/pdf/2503.01288](https://arxiv.org/pdf/2503.01288)
+- Code：[https://github.com/ChongWang1024/RDMD](https://github.com/ChongWang1024/RDMD)
+
+#### DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution
+- Link：[https://arxiv.org/pdf/2503.01187](https://arxiv.org/pdf/2503.01187)
+- Code：[https://github.com/zirui0625/DifIISR](https://github.com/zirui0625/DifIISR)
+
+
 <a name="Vision-Transformer"></a>
 
 # Vision Transformer
-
+#### Split Adaptation for Pre-trained Vision Transformers
+- Link：[https://arxiv.org/pdf/2503.00441](https://arxiv.org/pdf/2503.00441)
+- Code：[https://github.com/conditionWang/Split_Adaptation](https://github.com/conditionWang/Split_Adaptation)
 
 
 <a name="VL"></a>
@@ -396,9 +481,13 @@
 - Link：[https://arxiv.org/pdf/2503.03782](https://arxiv.org/pdf/2503.03782)
 - Code：[https://anonymous.4open.science/r/ReRAW-0C87/](https://anonymous.4open.science/r/ReRAW-0C87/)
   
+#### SGC-Net: Stratified Granular Comparison Network for Open-Vocabulary HOI Detection
+- Link：[https://arxiv.org/pdf/2503.00414](https://arxiv.org/pdf/2503.00414)
+- Code：[https://github.com/Phil0212/SGC-Net](https://github.com/Phil0212/SGC-Net)
 
-
-
+#### Solving Instance Detection from an Open-World Perspective
+- Link：[https://arxiv.org/pdf/2503.00359](https://arxiv.org/pdf/2503.00359)
+- Code：[https://shenqq377.github.io/IDOW/](https://shenqq377.github.io/IDOW/)
 <a name="DA"></a>
 
 ## 数据增强(Data Augmentation)
@@ -416,6 +505,8 @@
 #### Towards Visual Discrimination and Reasoning of Real - World Physical Dynamics: Physics - Grounded Anomaly Detection
 - Link：[https://arxiv.org/pdf/2503.03562](https://arxiv.org/pdf/2503.03562)
 
+#### CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging
+- Link：[https://arxiv.org/pdf/2503.00325](https://arxiv.org/pdf/2503.00325)
 
 
 <a name="VT"></a>
@@ -436,16 +527,24 @@
 #### Towards Generalizable Scene Change Detection
 - Link：[https://arxiv.org/abs/2409.06214](https://arxiv.org/abs/2409.06214)
 
+<a name="Instance-Segmentation"></a>
+# 实例分割(Instance Segmentation)
+#### Audio-Visual Instance Segmentation
+- Link：[https://arxiv.org/pdf/2310.18709](https://arxiv.org/pdf/2310.18709)
+- Code：[https://github.com/ruohaoguo/avis](https://github.com/ruohaoguo/avis)
+
 
 <a name="FewShot"></a>
 
 # 少样本学习(Few-Shot Learning)
 
 #### ProAPO: Progressively Automatic Prompt Optimization for Visual Classification
-#### Link：[https://arxiv.org/pdf/2502.19844](https://arxiv.org/pdf/2502.19844)
-#### Code：[https://github.com/MorningStarOvO/ProAPO](https://github.com/MorningStarOvO/ProAPO)
+- Link：[https://arxiv.org/pdf/2502.19844](https://arxiv.org/pdf/2502.19844)
+- Code：[https://github.com/MorningStarOvO/ProAPO](https://github.com/MorningStarOvO/ProAPO)
 
 
+
+  
 <a name="bio"></a>
 
 
@@ -461,7 +560,17 @@
 #### MedUnifier: Unifying Vision - and - Language Pre - training on Medical Data with Vision Generation Task using Discrete Visual Representations
 - Link：[https://arxiv.org/pdf/2503.01019](https://arxiv.org/pdf/2503.01019)
 
+#### Volume Tells: Dual Cycle-Consistent Diffusion for 3D Fluorescence Microscopy De-noising and Super-Resolution
+- Link：[https://arxiv.org/pdf/2503.02261](https://arxiv.org/pdf/2503.02261)
+- Code：
 
+#### EchoONE: Segmenting Multiple echocardiography Planes in One Model
+- Link：[https://arxiv.org/pdf/2412.02993](https://arxiv.org/pdf/2412.02993)
+- Code：[https://github.com/a2502503/EchoONE](https://github.com/a2502503/EchoONE)
+
+#### Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model
+- Link：[https://arxiv.org/pdf/2503.00908](https://arxiv.org/pdf/2503.00908)
+- Code：[https://github.com/Zi-YuanYang/SCAN-PhysFed](https://github.com/Zi-YuanYang/SCAN-PhysFed)
 
 <a name="MIS"></a>
 
@@ -485,7 +594,10 @@
 
 
 
-<a name="Autonomous-Driving"></a>
+<a name="Action-Detection"></a>
+# 行为检测(Action Detection)
+#### Precise Event Spotting in Sports Videos: Solving Long-Range Dependency and Class Imbalance
+- Link：[https://arxiv.org/pdf/2503.00147](https://arxiv.org/pdf/2503.00147)
 
 <a name="face-recognition"></a>
 
@@ -514,6 +626,14 @@
 - Link：[https://arxiv.org/pdf/2503.02593](https://arxiv.org/pdf/2503.02593)
 - Code：[https://github.com/kevin301342/CMMLoc](https://github.com/kevin301342/CMMLoc)
 
+#### DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting
+- Link：[https://arxiv.org/pdf/2503.00746](https://arxiv.org/pdf/2503.00746)
+- Code：[https://dof-gaussian.github.io](https://dof-gaussian.github.io)
+
+
+#### STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds
+- Link：[https://arxiv.org/pdf/2503.00801](https://arxiv.org/pdf/2503.00801)
+- Code：[https://github.com/Miraclelzk/STAR-Edge](https://github.com/Miraclelzk/STAR-Edge)
 
 <a name="SSL"></a>
 # 自监督学习(Self-supervised Learning)
@@ -527,6 +647,14 @@
 
 #### Handling Spatial - Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor
 - Link：[https://arxiv.org/pdf/2412.18355](https://arxiv.org/pdf/2412.18355)
+
+#### Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think
+- Link：[https://arxiv.org/pdf/2503.00948](https://arxiv.org/pdf/2503.00948)
+- Code：[https://github.com/Chuge0335/EDG](https://github.com/Chuge0335/EDG)
+
+#### FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
+- Link：[https://arxiv.org/pdf/2410.04810](https://arxiv.org/pdf/2410.04810)
+- Code：[https://github.com/HaokunChen245/FedBiP](https://github.com/HaokunChen245/FedBiP)
 
 <a name="IL"></a>
 # 增量学习(Incremental Learning)
@@ -552,6 +680,14 @@
 - Link：[https://arxiv.org/pdf/2503.04119](https://arxiv.org/pdf/2503.04119)
 - Code：[https://github.com/scn-00/SCSA](https://github.com/scn-00/SCSA)
 
+#### K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs
+- Link：[https://arxiv.org/pdf/2502.18461](https://arxiv.org/pdf/2502.18461)
+- Code：[https://k-lora.github.io/K-LoRA.io/](https://k-lora.github.io/K-LoRA.io/)
+#### Zero-Shot Head Swapping in Real-World Scenarios
+- Link：[https://arxiv.org/pdf/2503.00861](https://arxiv.org/pdf/2503.00861)
+
+
+
 <a name="Image-Inpainting"></a>
 
 # 图像补全/图像修复(Image Inpainting)
@@ -575,16 +711,20 @@
 # Low-level Vision
 
 #### One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion
-#### Link：[https://arxiv.org/pdf/2502.19854](https://arxiv.org/pdf/2502.19854)
-#### Code：[https://github.com/AWCXV/GIFNet](https://github.com/AWCXV/GIFNet)
+- Link：[https://arxiv.org/pdf/2502.19854](https://arxiv.org/pdf/2502.19854)
+- Code：[https://github.com/AWCXV/GIFNet](https://github.com/AWCXV/GIFNet)
 
-
+#### UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion
+- Link：[https://arxiv.org/pdf/2501.11515](https://arxiv.org/pdf/2501.11515)
+- Code：[https://openimaginglab.github.io/UltraFusion/](https://openimaginglab.github.io/UltraFusion/)
 
 
 <a name="SR"></a>
 
 # 超分辨率(Super-Resolution)
-
+#### Adaptive Rectangular Convolution for Remote Sensing Pansharpening
+- Link：[https://arxiv.org/pdf/2503.00467](https://arxiv.org/pdf/2503.00467)
+- Code：[https://github.com/WangXueyang-uestc/ARConv.git](https://github.com/WangXueyang-uestc/ARConv.git)
 
 
 <a name="Denoising"></a>
@@ -602,8 +742,14 @@
 # 图像生成(Image Generation)
 
 #### Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network
-#### Link：[https://arxiv.org/pdf/2502.19754](https://arxiv.org/pdf/2502.19754)
-#### Code：[https://github.com/Qiu-XY/LDSB](https://github.com/Qiu-XY/LDSB)
+- Link：[https://arxiv.org/pdf/2502.19754](https://arxiv.org/pdf/2502.19754)
+- Code：[https://github.com/Qiu-XY/LDSB](https://github.com/Qiu-XY/LDSB)
+
+#### Towards Improved Text-Aligned Codebook Learning: Multi-Hierarchical Codebook-Text Alignment with Long Text
+- Link：[https://arxiv.org/pdf/2503.01261](https://arxiv.org/pdf/2503.01261)
+
+
+
 
 <a name="Video-Generation"></a>
 
@@ -613,6 +759,8 @@
 - Link：https://arxiv.org/pdf/2503.03751
 - Code：[https://research.nvidia.com/labs/toronto-ai/GEN3C/](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
 
+#### KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation
+- Link：[https://arxiv.org/pdf/2503.01715](https://arxiv.org/pdf/2503.01715)
 
 
 <a name="3D-Generation"></a>
@@ -658,6 +806,14 @@
 - Link：[https://arxiv.org/abs/2408.17135](https://arxiv.org/abs/2408.17135)
 - Code：[https://aigc-explorer.github.io/TIMotion-page](https://aigc-explorer.github.io/TIMotion-page)
 
+#### SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance
+- Link：[https://arxiv.org/pdf/2503.01291](https://arxiv.org/pdf/2503.01291)
+- Code：[https://4dvlab.github.io/project_page/semgeomo/](https://4dvlab.github.io/project_page/semgeomo/)
+
+#### HOP: Heterogeneous Topology-based Multimodal Entanglement for Co-Speech Gesture Generation
+- Link：[https://arxiv.org/pdf/2503.01175](https://arxiv.org/pdf/2503.01175)
+- Code：[https://star-uu-wang.github.io/HOP/](https://star-uu-wang.github.io/HOP/)
+
 <a name="KD"></a>
 
 # 知识蒸馏(Knowledge Distillation)
@@ -681,7 +837,9 @@
 - Link：[https://arxiv.org/abs/2502.20762](https://arxiv.org/abs/2502.20762)
 - Code：[https://github.com/microsoft/DCVC](https://github.com/microsoft/DCVC)
 
-
+#### Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression
+- Link：[https://arxiv.org/pdf/2503.00399](https://arxiv.org/pdf/2503.00399)
+- Code：[https://github.com/yang-xidian/SEDIC](https://github.com/yang-xidian/SEDIC)
 
 
 <a name="Stereo-Matching"></a>
@@ -694,6 +852,8 @@
 
 # 场景图生成(Scene Graph Generation)
 
+#### Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing
+- Link：[https://arxiv.org/pdf/2503.00548](https://arxiv.org/pdf/2503.00548)
 
 
 <a name="Counting"></a>
@@ -751,7 +911,9 @@
 - Link：[https://arxiv.org/pdf/2503.01725](https://arxiv.org/pdf/2503.01725)
 - Code：[https://harmonyset.github.io/](https://harmonyset.github.io/)
 
-
+#### AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark
+- Link：[https://arxiv.org/pdf/2406.00783](https://arxiv.org/pdf/2406.00783)
+- Code：[https://github.com/Purdue-M2/AI-Face-FairnessBench](https://github.com/Purdue-M2/AI-Face-FairnessBench)
 
 <a name="Unlearning"></a>
 # 反学习(Machine Unlearning)
@@ -760,6 +922,7 @@
 
 <a name="New-Tasks"></a>
 # 新任务(New Tasks)
+
 
 
 <a name="Improving-Reasoning"></a>
@@ -816,3 +979,7 @@
 
 #### PIDLoc: Cross - View Pose Optimization Network Inspired by PID Controllers
 - Link：[https://arxiv.org/pdf/2503.02388](https://arxiv.org/pdf/2503.02388)
+
+
+#### Rashomon Sets for Prototypical-Part Networks: Editing Interpretable Models in Real-Time
+- Link：[https://arxiv.org/pdf/2503.01087](https://arxiv.org/pdf/2503.01087)
