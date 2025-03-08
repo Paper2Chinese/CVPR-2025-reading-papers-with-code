@@ -15,7 +15,12 @@
 
 # 【CVPR 2025 论文开源目录】
 
-- [3DGS(Gaussian Splatting)](#3DGS)
+
+| [3DGS(Gaussian Splatting)](#3DGS) | 表头2 | 表头3 |
+|-------|-------|-------|
+| 内容1 | 内容2 | 内容3 |
+| 内容4 | 内容5 | 内容6 |
+
 - [Mamba / SSM)](#Mamba)
 - [Avatars](#Avatars)
 - [Backbone](#Backbone)
