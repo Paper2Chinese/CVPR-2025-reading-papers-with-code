@@ -16,103 +16,23 @@
 # 【CVPR 2025 论文开源目录】
 
 
-| [3DGS(Gaussian Splatting)](#3DGS) | 表头2 | 表头3 |
-|-------|-------|-------|
-| 内容1 | 内容2 | 内容3 |
-| 内容4 | 内容5 | 内容6 |
+| [3DGS(Gaussian Splatting)](#3DGS) | [Mamba / (SSM)](#Mamba) | [Avatars](#Avatars) | [Backbone](#Backbone) | [CLIP](#CLIP) | [MAE](#MAE) |[联邦学习(Federated Learning)](#FL) |  
+|-------|-------|-------| --------|--------|--------|--------|
+| [多模态大语言模型(MLLM)](#MLLM) | [大语言模型(LLM)](#LLM) | [视觉语言模型(VLM)](#VLM) | [多模态(Multi-modal)](#multimodal)  | [NAS](#NAS)   |  [OCR](#OCR)  |  [NeRF](#NeRF)  |   
+| [视觉问答(Visual Question Answering)](#VQA) | [强化学习(Reinforcement Learning)](#RL) | [扩散模型(Diffusion Models)](#Diffusion) |  [ReID(重识别)](#ReID) |  [长尾分布(Long-Tail)](#Long-Tail) | [长尾分布(Long-Tail)](#Long-Tail)   |  [长尾分布(Long-Tail)](#Long-Tail)  |   
+|[增量学习(Incremental Learning)](#IL) |[数据增强(Data Augmentation)](#DA) | [目标检测(Object Detection)](#Object-Detection)|[异常检测(Anomaly Detection)](#Anomaly-Detection) | [目标跟踪(Visual Tracking)](#VT)|[语义分割(Semantic Segmentation)](#Semantic-Segmentation) | [实例分割(Instance Segmentation)](#Instance-Segmentation)| 
+|[医学图像(Medical Image)](#MI) |[医学图像分割(Medical Image Segmentation)](#MIS) |[视频目标分割(Video Object Segmentation)](#VOS) |[视频实例分割(Video Instance Segmentation)](#VIS) | [参考图像分割(Referring Image Segmentation)](#RIS) |  [图像抠图(Image Matting)](#Matting)| [图像编辑(Image Editing)](#Image-Editing)|
+|[具身智能](Embodied-AI)|[Prompt](#Prompt) | [自监督学习(Self-supervised Learning)](#SSL)   |  [生物工程(bioengineering)](#bio)| [Low-level Vision](#LLV)|[超分辨率(Super-Resolution)](#SR) |[去模糊(Deblur)](#Deblur)|
+|[生成对抗网络(GAN)](#GAN) |[3D点云(3D Point Cloud)](#3D-Point-Cloud) |[3D目标检测(3D Object Detection)](#3DOD) | [3D语义分割(3D Semantic Segmentation)](#3DSS)|[3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking) |[3D语义场景补全(3D Semantic Scene Completion)](#3DSSC) |[视频理解(Video Understanding)](#Video-Understanding)|
+|[3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation) |[3D人体Mesh估计(3D Human Mesh Estimation)](#3D-Human-Pose-Estimation) | [少样本学习(Few-Shot Learning)](#FewShot)| [图像生成(Image Generation)](#Image-Generation)|[视频生成(Video Generation)](#Video-Generation) |[3D生成(3D Generation)](#3D-Generation) | [图像压缩(Image Compression)](#IC)|
+|[持续学习(Continual Learning)](#CL) |[行为识别(Action Recognition)](#Action-Recognition) | [行为检测(Action Detection)](#Action-Detection)|[人脸识别(Face Recognition)](#face-recognition) |[文本检测(Text Detection)](#Text-Detection) | [知识蒸馏(Knowledge Distillation)](#KD)|[三维重建(3D Reconstruction)](#3D-Reconstruction)
+| [GNN](#GNN) | [DETR](#DETR)  |  [Vision Transformer](#Vision-Transformer) |[全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)| [去噪(Denoising)](#Denoising) |[自动驾驶(Autonomous Driving)](#Autonomous-Driving)| [3D配准(3D Registration)](#3D-Registration) | 
+| [模型剪枝(Model Pruning)](#Pruning) |[深度估计(Depth Estimation)](#Depth-Estimation) |[轨迹预测(Trajectory Prediction)](#TP) |[车道线检测(Lane Detection)](#Lane-Detection) |[图像描述(Image Captioning)](#Image-Captioning) | [手语识别(Sign Language Recognition)](#SLR)|[视频预测(Video Prediction)](#Video-Prediction)  | 
+|[新视点合成(Novel View Synthesis)](#NVS) |[Zero-Shot Learning(零样本学习)](#ZSL) |[立体匹配(Stereo Matching)](#Stereo-Matching) | [特征匹配(Feature Matching)](#Feature-Matching)| [场景图生成(Scene Graph Generation)](#SGG) |  [计数(Counting)](#Counting)|[隐式神经表示(Implicit Neural Representations)](#INR) | 
+|[图像质量评价(Image Quality Assessment)](#IQA) |[视频质量评价(Video Quality Assessment)](#Video-Quality-Assessment) |[数据集(Datasets)](#Datasets) |[反学习(Machine Unlearning)](#Unlearning) |[新任务(New Tasks)](#New-Tasks) |[模型加速(Improving Reasoning)](#Improving-Reasoning) |[时间序列(Time Series)](#Time-Series) | 
+|[其他(Others)](#Others) |[脉冲网络](#SNN) |[图像检索](#IRetrieval) | | | | | 
 
-- [Mamba / SSM)](#Mamba)
-- [Avatars](#Avatars)
-- [Backbone](#Backbone)
-- [CLIP](#CLIP)
-- [MAE](#MAE)
-- [Embodied AI](#Embodied-AI)
-- [GNN](#GNN)
-- [具身智能](EmAI)
-- [多模态大语言模型(MLLM)](#MLLM)
-- [大语言模型(LLM)](#LLM)
-- [视觉语言模型(VLM)](#VLM)
-- [多模态(Multi-modal)](#multimodal)
-- [NAS](#NAS)
-- [OCR](#OCR)
-- [NeRF](#NeRF)
-- [DETR](#DETR)
-- [Prompt](#Prompt)
-- [视觉问答(Visual Question Answering)](#VQA)
-- [强化学习(Reinforcement Learning)](#RL)
-- [扩散模型(Diffusion Models)](#Diffusion)
-- [ReID(重识别)](#ReID)
-- [长尾分布(Long-Tail)](#Long-Tail)
-- [Vision Transformer](#Vision-Transformer)
-- [自监督学习(Self-supervised Learning)](#SSL)
-- [联邦学习(Federated Learning)](#FL)
-- [增量学习(Incremental Learning)](#IL)
-- [数据增强(Data Augmentation)](#DA)
-- [目标检测(Object Detection)](#Object-Detection)
-- [异常检测(Anomaly Detection)](#Anomaly-Detection)
-- [目标跟踪(Visual Tracking)](#VT)
-- [语义分割(Semantic Segmentation)](#Semantic-Segmentation)
-- [实例分割(Instance Segmentation)](#Instance-Segmentation)
-- [全景分割(Panoptic Segmentation)](#Panoptic-Segmentation)
-- [生物工程(bioengineering)](#bio)
-- [医学图像(Medical Image)](#MI)
-- [医学图像分割(Medical Image Segmentation)](#MIS)
-- [视频目标分割(Video Object Segmentation)](#VOS)
-- [视频实例分割(Video Instance Segmentation)](#VIS)
-- [参考图像分割(Referring Image Segmentation)](#RIS)
-- [图像抠图(Image Matting)](#Matting)
-- [图像编辑(Image Editing)](#Image-Editing)
-- [Low-level Vision](#LLV)
-- [超分辨率(Super-Resolution)](#SR)
-- [去噪(Denoising)](#Denoising)
-- [去模糊(Deblur)](#Deblur)
-- [自动驾驶(Autonomous Driving)](#Autonomous-Driving)
-- [生成对抗网络(GAN)](#GAN)
-- [3D点云(3D Point Cloud)](#3D-Point-Cloud)
-- [3D目标检测(3D Object Detection)](#3DOD)
-- [3D语义分割(3D Semantic Segmentation)](#3DSS)
-- [3D目标跟踪(3D Object Tracking)](#3D-Object-Tracking)
-- [3D语义场景补全(3D Semantic Scene Completion)](#3DSSC)
-- [3D配准(3D Registration)](#3D-Registration)
-- [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
-- [3D人体Mesh估计(3D Human Mesh Estimation)](#3D-Human-Pose-Estimation)
-- [少样本学习(Few-Shot Learning)](#FewShot)
-- [图像生成(Image Generation)](#Image-Generation)
-- [视频生成(Video Generation)](#Video-Generation)
-- [3D生成(3D Generation)](#3D-Generation)
-- [视频理解(Video Understanding)](#Video-Understanding)
-- [持续学习(Continual Learning)](#CL)
-- [行为识别(Action Recognition)](#Action-Recognition)
-- [行为检测(Action Detection)](#Action-Detection)
-- [人脸识别(Face Recognition)](#face-recognition)
-- [文本检测(Text Detection)](#Text-Detection)
-- [知识蒸馏(Knowledge Distillation)](#KD)
-- [模型剪枝(Model Pruning)](#Pruning)
-- [图像压缩(Image Compression)](#IC)
-- [三维重建(3D Reconstruction)](#3D-Reconstruction)
-- [深度估计(Depth Estimation)](#Depth-Estimation)
-- [轨迹预测(Trajectory Prediction)](#TP)
-- [车道线检测(Lane Detection)](#Lane-Detection)
-- [图像描述(Image Captioning)](#Image-Captioning)
-- [手语识别(Sign Language Recognition)](#SLR)
-- [视频预测(Video Prediction)](#Video-Prediction)
-- [新视点合成(Novel View Synthesis)](#NVS)
-- [Zero-Shot Learning(零样本学习)](#ZSL)
-- [立体匹配(Stereo Matching)](#Stereo-Matching)
-- [特征匹配(Feature Matching)](#Feature-Matching)
-- [场景图生成(Scene Graph Generation)](#SGG)
-- [计数(Counting)](#Counting)
-- [隐式神经表示(Implicit Neural Representations)](#INR)
-- [图像质量评价(Image Quality Assessment)](#IQA)
-- [视频质量评价(Video Quality Assessment)](#Video-Quality-Assessment)
-- [数据集(Datasets)](#Datasets)
-- [反学习(Machine Unlearning)](#Unlearning)
-- [新任务(New Tasks)](#New-Tasks)
-- [模型加速(Improving Reasoning)](#Improving-Reasoning)
-- [时间序列(Time Series)](#Time-Series)
-- [其他(Others)](#Others)
-- [脉冲网络](#SNN)
-- [图像检索](#IRetrieval)
+
 
 <a name="EmAI"></a>
 # 具身智能（Embodied AI）
