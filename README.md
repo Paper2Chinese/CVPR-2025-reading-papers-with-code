@@ -36,9 +36,38 @@
 
 <a name="EmAI"></a>
 # 具身智能（Embodied AI）
+
+#### Universal Actions for Enhanced Embodied Foundation Models
+- Link：
+- Code：[https://github.com/2toinf/UniAct](https://github.com/2toinf/UniAct)
+
+#### A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning
+- Link：
+- Code：https://github.com/CVMI-Lab/SlotMIM
+
+#### VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation
+- Link：无
+- Code：无
+
 #### InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions
 - Link：[https://arxiv.org/pdf/2502.20390](https://arxiv.org/pdf/2502.20390)
 - Code：[https://sirui-xu.github.io/InterMimic/](https://sirui-xu.github.io/InterMimic/)
+
+#### UniGoal: Towards Universal Zero-shot Goal-oriented Navigation
+- Link：无
+- Code：无
+
+#### DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness
+- Link：
+- Code：
+
+#### Optimus - 2: Multimodal Minecraft Agent with Goal - Observation - Action Conditioned Policy
+- Link：
+- Code：https://cybertronagent.github.io/Optimus-2.github.io/
+
+#### Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach
+- Link：[https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/](https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/)
+- Code：[https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/](https://europe.naverlabs.com/research/publications/reasoning-in-visual-navigation-of-end-to-end-trained-agents/)
 
 
 #### G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation
@@ -60,6 +89,14 @@
 
 # 3DGS(Gaussian Splatting)
 
+#### DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation
+- Link：无
+- Code：无
+
+#### SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting
+- Link：无
+- Code：无
+
 #### Generative Gaussian Splatting for Unbounded 3D City Generation
 - Link：[https://arxiv.org/pdf/2406.06526](https://arxiv.org/pdf/2406.06526)
 - Code：[https://haozhexie.com/project/gaussian-city](https://haozhexie.com/project/gaussian-city)
@@ -75,6 +112,19 @@
 #### GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting
 - Link：[https://arxiv.org/pdf/2411.19895](https://arxiv.org/pdf/2411.19895)
 - Code：[https://github.com/NarcissusEx/GuardSplat](https://github.com/NarcissusEx/GuardSplat)
+
+
+#### 4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models
+- Link：
+- Code：无
+
+#### GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping
+- Link：无
+- Code：无
+
+#### DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting
+- Link：
+- Code：https://dof-gaussian.github.io
 
 <a name="3D-Reconstruction"></a>
 # 三维重建(3D Reconstruction)
@@ -100,14 +150,33 @@
 - Link：[https://arxiv.org/pdf/2502.12138](https://arxiv.org/pdf/2502.12138)
 - Code：[https://zhanghe3z.github.io/FLARE/](https://zhanghe3z.github.io/FLARE/)
 
+<a name="Pruning"></a>
+# 模型剪枝(Model Pruning)
+#### COAP: Memory-Efficient Training with Correlation-Aware Gradient Projection
+- Link：无
+- Code：无
 
 <a name="Depth-Estimation"></a>
 # 深度估计(Depth Estimation)
+
+#### DepthCues: Evaluating Monocular Depth Perception in Large Vision Models
+- Link：无
+- Code：无
+
+#### Completion as Enhancement: A Degradation-Aware Selective Image Guided Network for Depth Completion
+- Link：无
+- Code：无
 
 #### SVDC: Consistent Direct Time-of-Flight Video Depth Completion with Frequency Selective Fusion
 - Link：[https://arxiv.org/pdf/2503.01257](https://arxiv.org/pdf/2503.01257)
 - Code：[https://github.com/Lan1eve/SVDC](https://github.com/Lan1eve/SVDC)
 
+<a name="TP"></a>
+# 轨迹预测(Trajectory Prediction)
+
+#### MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation
+- Link：
+- Code：https://moflow-imle.github.io
 
 
 <a name="Mamba"></a>
@@ -122,6 +191,10 @@
 - Link：[https://arxiv.org/pdf/2503.03437](https://arxiv.org/pdf/2503.03437)
 - Code：https://leoluxxx.github.io/JamMa-page/
 
+#### QMambaBSR: Burst Image Super-Resolution with Query State Space Model
+- Link：无
+- Code：无
+- 
 <a name="Avatars"></a>
 
 # Avatars
@@ -143,17 +216,29 @@
 - Code：[https://github.com/Xu2729/CoSDH](https://github.com/Xu2729/CoSDH)
 
 
+#### SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment
+- Link：无
+- Code：无
 
-
-
+#### UniScene: Unified Occupancy-centric Driving Scene Generation
+- Link：
+- Code：https://arlo0o.github.io/uniscene/
 
 <a name="Backbone"></a>
 
 # Backbone
 
 #### OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels
-#### Link：[https://arxiv.org/pdf/2502.20087](https://arxiv.org/pdf/2502.20087)
-#### Code：[https://bit.ly/4bdbmdl](https://bit.ly/4bdbmdl)
+- Link：[https://arxiv.org/pdf/2502.20087](https://arxiv.org/pdf/2502.20087)
+- Code：[https://bit.ly/4bdbmdl](https://bit.ly/4bdbmdl)
+
+#### Transformers without Normalization
+- Link：无
+- Code：无
+
+#### ShiftwiseConv: Small Convolutional Kernel with Large Kernel Effect
+- Link：
+- Code：https://github.com/lidc54/shift-wiseConv
 
 
 <a name="CLIP"></a>
@@ -168,7 +253,9 @@
 - Link：[https://arxiv.org/pdf/2503.03613](https://arxiv.org/pdf/2503.03613)
 - Code：[https://github.com/Sxing2/CLIP-Test-time-Counterattacks](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)
 
-
+#### AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP
+- Link：
+- Code：https://github.com/Mwxinnn/AA-CLIP
 <a name="MAE"></a>
 # MAE
 
@@ -207,8 +294,13 @@
 
 # Prompt
 
+#### Reasoning to Attend: Try to Understand How <SEG> Token Works
+- Link：
+- Code：https://github.com/rui-qian/READ
 
-
+#### ProAPO: Progressively Automatic Prompt Optimization for Visual Classification
+- Link：无
+- Code：无
 <a name="LLM"></a>
 # 大语言模型(LLM)
 
@@ -216,6 +308,14 @@
 
 <a name="VLM"></a>
 # 视觉语言模型(LLM)
+
+#### GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks
+- Link：无
+- Code：无
+
+#### Filter Images First, Generate Instructions Later: Pre-Instruction Data Selection for Visual Instruction Tuning
+- Link：
+- Code：https://bardisafa.github.io/PreSel
 
 #### PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction
 - Link：[https://arxiv.org/pdf/2410.17247](https://arxiv.org/pdf/2410.17247)
@@ -237,10 +337,21 @@
 - Link：[https://arxiv.org/pdf/2501.09695](https://arxiv.org/pdf/2501.09695)
 - Code：[https://opa-dpo.github.io/](https://opa-dpo.github.io/)
 
+#### LayoutVLM: Differentiable Optimization of 3D Layout via Vision - Language Models
+- Link：
+- Code：https://ai.stanford.edu/~sunfanyun/layoutvlm/
 
 <a name="MLLM"></a>
 
 # 多模态大语言模型(MLLM)
+
+#### Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces
+- Link：无
+- Code：无
+
+#### WeGen: A Unified Model for Interactive Multimodal Generation as We Chat
+- Link：
+- Code：https://github.com/hzphzp/WeGen
 
 #### Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy
 - Link：[https://arxiv.org/pdf/2502.19902](https://arxiv.org/pdf/2502.19902)
@@ -252,10 +363,25 @@
 #### AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models
 - Link：[https://arxiv.org/pdf/2503.00591](https://arxiv.org/pdf/2503.00591)
 
+#### EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions
+- Link：
+- Code：无
+
+#### DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation
+- Link：
+- Code：https://jianzongwu.github.io/projects/diffsensei/
+
+#### Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training
+- Link：
+- Code：https://github.com/OpenGVLab/Mono-InternVL
 
 <a name="multimodal"></a>
 
 # 多模态
+
+#### Towards Open - Vocabulary Audio - Visual Event Localization
+- Link：无
+- Code：无
 
 #### Do computer vision foundation models learn the low-level characteristics of the human visual system?
 - Link：[https://arxiv.org/pdf/2502.20256](https://arxiv.org/pdf/2502.20256)
@@ -267,11 +393,17 @@
 #### Knowledge Bridger: Towards Training-free Missing Multi-modality Completion
 - Link：[https://arxiv.org/pdf/2502.19834](https://arxiv.org/pdf/2502.19834)
 
+#### MMRL: Multi-Modal Representation Learning for Vision-Language Models
+- Link：
+- Code：https://github.com/yunncheng/MMRL
 
 #### SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Redefinition and Split Optimization
 - Link：[https://arxiv.org/pdf/2409.17993](https://arxiv.org/pdf/2409.17993)
 - Code：[https://github.com/Junchen-Yu/SSHNet](https://github.com/Junchen-Yu/SSHNet)
 
+#### Knowledge Bridger: Towards Training-free Missing Multi-modality Completion
+- Link：无
+- Code：无
 
 #### LaVin - DiT: Large Vision Diffusion Transformer
 - Link：[https://arxiv.org/pdf/2411.11505](https://arxiv.org/pdf/2411.11505)
@@ -298,6 +430,19 @@
 - Link：[https://arxiv.org/pdf/2405.16071](https://arxiv.org/pdf/2405.16071)
 - Code：[https://github.com/callsys/DynRefer](https://github.com/callsys/DynRefer)
 
+#### NeighborRetr: Balancing Hub Centrality in Cross-Modal Retrieval
+- Link：
+- Code：https://github.com/zzezze/NeighborRetr
+
+#### STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant Information Exploration in Multimodal Classification
+- Link：https://github.com/siyi-wind/STiL
+- Code：https://github.com/siyi-wind/STiL
+
+
+
+
+
+
 <a name="NAS"></a>
 
 # NAS
@@ -305,6 +450,9 @@
 <a name="VQA"></a>
 
 ## 视觉问答(Visual Question Answering)
+#### Question-Aware Gaussian Experts for Audio-Visual Question Answering
+- Link：
+- Code：https://github.com/AIM-SKKU/QA-TIGER
 
 #### Question - Aware Gaussian Experts for Audio - Visual Question Answering
 - Link：[https://arxiv.org/abs/2503.04459](https://arxiv.org/abs/2503.04459)
@@ -330,6 +478,13 @@
 - Link：[https://arxiv.org/pdf/2503.01130](https://arxiv.org/pdf/2503.01130)
 - Code：[https://sairlab.org/airroom/](https://sairlab.org/airroom/)
 
+#### Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification
+- Link：无
+- Code：无
+
+#### AG - VPReID: A Challenging Large - Scale Benchmark for Aerial - Ground Video - based Person Re - Identification
+- Link：
+- Code：[https://github.com/agvpreid25/AG-VPReID-Net](https://github.com/agvpreid25/AG-VPReID-Net)
 
 <a name="Long-Tail"></a>
 # 长尾分布(Long-Tail)
@@ -337,10 +492,34 @@
 - Link：[https://arxiv.org/pdf/2503.00876](https://arxiv.org/pdf/2503.00876)
 - Code：[https://github.com/yilei-wu/imbalanced-regression](https://github.com/yilei-wu/imbalanced-regression)
 
+#### Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness
+- Link：无
+- Code：无
+
 
 <a name="Diffusion"></a>
 
 # 扩散模型(Diffusion Models)
+
+#### PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model
+- Link：无
+- Code：无
+
+#### Adversarial Diffusion Compression for Real-World Image Super-Resolution
+- Link：
+- Code：https://github.com/Guaishou74851/AdcSR
+
+#### Color Alignment in Diffusion
+- Link：无
+- Code：无
+
+#### Erase Diffusion: Empowering Object Removal Through Calibrating Diffusion Pathways
+- Link：无
+- Code：无
+
+#### RayFlow: Instance-Aware Diffusion Acceleration via Adaptive Flow Trajectories
+- Link：无
+- Code：无
 
 #### Attention Distillation: A Unified Approach to Visual Characteristics Transfer
 - Link：[https://arxiv.org/pdf/2502.20235](https://arxiv.org/pdf/2502.20235)
@@ -353,12 +532,17 @@
 - Link：[https://arxiv.org/pdf/2503.03265](https://arxiv.org/pdf/2503.03265)
 - Code：[https://github.com/UnicomAI/ShortDF](https://github.com/UnicomAI/ShortDF)
 
-
+#### Optimizing for the Shortest Path in Denoising Diffusion Model
+- Link：
+- Code：https://github.com/UnicomAI/ShortDF
 
 #### h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform
 - Link：[https://arxiv.org/pdf/2503.02187](https://arxiv.org/pdf/2503.02187)
 - Code：[https://github.com/nktoan/h-edit](https://github.com/nktoan/h-edit)
 
+#### Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models
+- Link：无
+- Code：无
 
 #### Denoising Functional Maps: Diffusion Models for Shape Correspondence
 - Link：[https://arxiv.org/pdf/2503.01845](https://arxiv.org/pdf/2503.01845)
@@ -383,6 +567,21 @@
 - Link：[https://arxiv.org/pdf/2503.01187](https://arxiv.org/pdf/2503.01187)
 - Code：[https://github.com/zirui0625/DifIISR](https://github.com/zirui0625/DifIISR)
 
+#### Channel-wise Noise Scheduled Diffusion for Inverse Rendering in Indoor Scenes
+- Link：无
+- Code：无
+
+#### Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models
+- Link：无
+- Code：无
+
+#### Curriculum Direct Preference Optimization for Diffusion and Consistency Models
+- Link：https://github.com/CroitoruAlin/Curriculum-DPO
+- Code：https://github.com/CroitoruAlin/Curriculum-DPO
+
+#### Reward Fine - Tuning Two - Step Diffusion Models via Learning Differentiable Latent - Space Surrogate Reward
+- Link：
+- Code：https://sites.google.com/view/lasro
 
 <a name="Vision-Transformer"></a>
 
@@ -391,6 +590,9 @@
 - Link：[https://arxiv.org/pdf/2503.00441](https://arxiv.org/pdf/2503.00441)
 - Code：[https://github.com/conditionWang/Split_Adaptation](https://github.com/conditionWang/Split_Adaptation)
 
+#### Associative Transformer
+- Link：无
+- Code：无
 
 <a name="VL"></a>
 
@@ -424,6 +626,10 @@
 
 # 异常检测(Anomaly Detection)
 
+#### UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection
+- Link：
+- Code：https://github.com/FantasticGNU/UniVAD
+
 #### Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection
 - Link: [https://arxiv.org/abs/2502.20981](https://arxiv.org/abs/2502.20981)
 
@@ -449,8 +655,18 @@
 
 # 语义分割(Semantic Segmentation)
 
+#### Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation
+- Link：
+- Code：https://github.com/hustvl/MaskAdapter
+
 #### Towards Generalizable Scene Change Detection
 - Link：[https://arxiv.org/abs/2409.06214](https://arxiv.org/abs/2409.06214)
+
+#### Towards Generalizable Scene Change Detection
+- Link：
+- Code：无
+
+
 
 <a name="Instance-Segmentation"></a>
 # 实例分割(Instance Segmentation)
@@ -497,6 +713,18 @@
 - Link：[https://arxiv.org/pdf/2503.00908](https://arxiv.org/pdf/2503.00908)
 - Code：[https://github.com/Zi-YuanYang/SCAN-PhysFed](https://github.com/Zi-YuanYang/SCAN-PhysFed)
 
+#### DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction
+- Link：无
+- Code：无
+
+#### BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models
+- Link：https://github.com/HealthX-Lab/BiomedCoOp
+- Code：https://github.com/HealthX-Lab/BiomedCoOp
+
+#### Interactive Medical Image Analysis with Concept - based Similarity Reasoning
+- Link：
+- Code：https://github.com/tadeephuy/InteractCSR
+
 <a name="MIS"></a>
 
 # 医学图像分割(Medical Image Segmentation)
@@ -528,6 +756,10 @@
 
 # 人脸识别(Face Recognition)
 
+#### HSEmotion Team at ABAW - 8 Competition: Audiovisual Ambivalence/Hesitancy, Emotional Mimicry Intensity and Facial Expression Recognition
+- Link：无
+- Code：无
+
 
 <a name="3D-Point-Cloud"></a>
 
@@ -542,6 +774,9 @@
 #### Self - Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration
 - Link：[https://arxiv.org/pdf/2503.04030](https://arxiv.org/pdf/2503.04030)
 
+#### GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection
+- Link：无
+- Code：无
 
 #### ArcPro: Architectural Programs for Structured 3D Abstraction of Sparse Points
 - Link：[https://arxiv.org/pdf/2503.02745](https://arxiv.org/pdf/2503.02745)
@@ -555,20 +790,60 @@
 - Link：[https://arxiv.org/pdf/2503.00746](https://arxiv.org/pdf/2503.00746)
 - Code：[https://dof-gaussian.github.io](https://dof-gaussian.github.io)
 
+#### LiSu: A Dataset and Method for LiDAR Surface Normal Estimation
+- Link：无
+- Code：无
 
 #### STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds
 - Link：[https://arxiv.org/pdf/2503.00801](https://arxiv.org/pdf/2503.00801)
 - Code：[https://github.com/Miraclelzk/STAR-Edge](https://github.com/Miraclelzk/STAR-Edge)
 
+#### Unlocking Generalization Power in LiDAR Point Cloud Registration
+- Link：
+- Code：https://github.com/peakpang/UGP
+
+#### Parametric Point Cloud Completion for Polygonal Surface Reconstruction
+- Link：
+- Code：[https://parametric-completion.github.io](https://parametric-completion.github.io)
+
+#### Mitigating Ambiguities in 3D Classification with Gaussian Splatting
+- Link：无
+- Code：无
+
+#### HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views
+- Link：
+- Code：[https://csiro-robotics.github.io/HOTFormerLoc](https://csiro-robotics.github.io/HOTFormerLoc)
+
 <a name="SSL"></a>
 # 自监督学习(Self-supervised Learning)
 
 #### Rethinking Epistemic and Aleatoric Uncertainty for Active Open-Set Annotation: An Energy-Based Approach
-#### Link：[https://arxiv.org/pdf/2502.19691](https://arxiv.org/pdf/2502.19691)
-#### Code：[https://github.com/chenchenzong/EAOA](https://github.com/chenchenzong/EAOA)
+- Link：[https://arxiv.org/pdf/2502.19691](https://arxiv.org/pdf/2502.19691)
+- Code：[https://github.com/chenchenzong/EAOA](https://github.com/chenchenzong/EAOA)
+
+#### Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild
+- Link：无
+- Code：无
+
+#### Do computer vision foundation models learn the low-level characteristics of the human visual system?
+- Link：无
+- Code：无
+
+<a name="bio"></a>
+# 生物工程(bioengineering)
+
+#### Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis
+- Link：无
+- Code：无
+
+
 
 <a name="FL"></a>
 # 联邦学习(Federated Learning)
+
+#### Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning
+- Link：
+- Code：[https://github.com/WeiDai-David/2025CVPR_GGEUR](https://github.com/WeiDai-David/2025CVPR_GGEUR)
 
 #### Handling Spatial - Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor
 - Link：[https://arxiv.org/pdf/2412.18355](https://arxiv.org/pdf/2412.18355)
@@ -581,11 +856,20 @@
 - Link：[https://arxiv.org/pdf/2410.04810](https://arxiv.org/pdf/2410.04810)
 - Code：[https://github.com/HaokunChen245/FedBiP](https://github.com/HaokunChen245/FedBiP)
 
+#### dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis
+- Link：
+- Code：无
+
+
+
 <a name="IL"></a>
 # 增量学习(Incremental Learning)
 #### Dual Consolidation for Pre - Trained Model - Based Domain - Incremental Learning
 - Link：[https://arxiv.org/pdf/2410.00911](https://arxiv.org/pdf/2410.00911)
 - Code：[https://github.com/Estrella-fugaz/CVPR25-Duct](https://github.com/Estrella-fugaz/CVPR25-Duct)
+
+
+
 
 
 <a name="3DOD"></a>
@@ -600,6 +884,9 @@
 #### OmniGuard: Hybrid Manipulation Localization via Augmented Versatile Deep Image Watermarking
 - Link: [https://arxiv.org/pdf/2412.01615](https://arxiv.org/pdf/2412.01615)
 
+#### SoftShadow: Leveraging Soft Masks for Penumbra-Aware Shadow Removal
+- Link：无
+- Code：无
 
 #### SCSA: A Plug - and - Play Semantic Continuous - Sparse Attention for Arbitrary Semantic Style Transfer
 - Link：[https://arxiv.org/pdf/2503.04119](https://arxiv.org/pdf/2503.04119)
@@ -635,6 +922,14 @@
 
 # Low-level Vision
 
+#### Feature Fusion Attention Network with CycleGAN for Image Dehazing, De-Snowing and De-Raining
+- Link：无
+- Code：无
+- 
+#### One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion
+- Link：
+- Code：[https://github.com/AWCXV/GIFNet](https://github.com/AWCXV/GIFNet)
+
 #### One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion
 - Link：[https://arxiv.org/pdf/2502.19854](https://arxiv.org/pdf/2502.19854)
 - Code：[https://github.com/AWCXV/GIFNet](https://github.com/AWCXV/GIFNet)
@@ -651,6 +946,15 @@
 - Link：[https://arxiv.org/pdf/2503.00467](https://arxiv.org/pdf/2503.00467)
 - Code：[https://github.com/WangXueyang-uestc/ARConv.git](https://github.com/WangXueyang-uestc/ARConv.git)
 
+#### Arbitrary-steps Image Super-resolution via Diffusion Inversion
+- Link：
+- Code：https://github.com/zsyOAOA/InvSR
+
+
+
+#### Complexity Experts are Task-Discriminative Learners for Any Image Restoration
+- Link：
+- Code：https://eduardzamfir.github.io/moceir/
 
 <a name="Denoising"></a>
 
@@ -673,12 +977,36 @@
 #### Towards Improved Text-Aligned Codebook Learning: Multi-Hierarchical Codebook-Text Alignment with Long Text
 - Link：[https://arxiv.org/pdf/2503.01261](https://arxiv.org/pdf/2503.01261)
 
+#### Tiled Diffusion
+- Link：
+- Code：无
 
+#### ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation
+- Link：无
+- Code：无
 
+#### Adv - CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks
+- Link：无
+- Code：无
 
+#### Towards Improved Text - Aligned Codebook Learning: Multi - Hierarchical Codebook - Text Alignment with Long Text
+- Link：无
+- Code：无
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
+
+#### Mind the Time: Temporally-Controlled Multi-Event Video Generation
+- Link：
+- Code：https://mint-video.github.io/
+- 
+#### Synchronized Video-to-Audio Generation via Mel Quantization-Continuum Decomposition
+- Link：
+- Code：https://wjc2830.github.io/MelQCD/
+
+#### AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion
+- Link：无
+- Code：无
 
 #### GEN3C: 3D - Informed World - Consistent Video Generation with Precise Camera Control
 - Link：https://arxiv.org/pdf/2503.03751
@@ -687,7 +1015,13 @@
 #### KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation
 - Link：[https://arxiv.org/pdf/2503.01715](https://arxiv.org/pdf/2503.01715)
 
+#### AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models
+- Link：无
+- Code：无
 
+#### ObjectMover: Generative Object Movement with Video Prior
+- Link：
+- Code：[https://xinyu-andy.github.io/ObjMover](https://xinyu-andy.github.io/ObjMover)
 <a name="3D-Generation"></a>
 # 3D生成
 
@@ -702,17 +1036,42 @@
 - Link: [https://arxiv.org/pdf/2411.05738](https://arxiv.org/pdf/2411.05738)
 - Code: [https://stdgen.github.io/](https://stdgen.github.io/)
 
+#### MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention
+- Link：无
+- Code：无
+
+#### Make - It - Animatable: An Efficient Framework for Authoring Animation - Ready 3D Characters
+- Link：
+- Code：[https://jasongzy.github.io/Make-It-Animatable/](https://jasongzy.github.io/Make-It-Animatable/)
 
 <a name="Video-Understanding"></a>
 
 # 视频理解(Video Understanding)
 
+#### BIMBA: Selective-Scan Compression for Long-Range Video Question Answering
+- Link：
+- Code：https://sites.google.com/view/bimba-mllm
 
+#### Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions
+- Link：
+- Code：无
 
+#### VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary
+- Link：
+- Code：https://github.com/showlab/VLog
 
+#### HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding
+- Link：无
+- Code：无
+
+<a name="3D-Human-Pose-Estimation"></a>
+# 3D人体姿态估计(3D Human Pose Estimation)
+
+#### HumanMM: Global Human Motion Recovery from Multi-shot Videos
+- Link：
+- Code：https://zhangyuhong01.github.io/HumanMM/
 
 <a name="CL"></a>
-
 # 持续学习(Continual Learning)
 
 #### Synthetic Data is an Elegant GIFT for Continual Vision - Language Models
@@ -771,7 +1130,9 @@
 
 # 立体匹配(Stereo Matching)
 
-
+#### FoundationStereo: Zero-Shot Stereo Matching
+- Link：
+- Code：https://nvlabs.github.io/FoundationStereo/
 
 <a name="SGG"></a>
 
@@ -799,11 +1160,17 @@
 - Link：[https://arxiv.org/pdf/2503.03132](https://arxiv.org/pdf/2503.03132)
 - Code：[https://4d-dsns.github.io/DSNS/](https://4d-dsns.github.io/DSNS/)
 
+#### MetricGrids: Arbitrary Nonlinear Approximation with Elementary Metric Grids based Implicit Neural Representation
+- Link：
+- Code：https://github.com/wangshu31/MetricGrids
 
 <a name="IQA"></a>
 
 # 图像质量评价(Image Quality Assessment)
 
+#### SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model
+- Link：无
+- Code：
 
 #### Q - Eval - 100K: Evaluating Visual Quality and Alignment Level for Text - to - Vision Content
 - Link：[https://arxiv.org/pdf/2503.02357](https://arxiv.org/pdf/2503.02357)
@@ -817,6 +1184,9 @@
 <a name="Datasets"></a>
 
 # 数据集(Datasets)
+#### AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data
+- Link：
+- Code：https://github.com/zengqunzhao/AIM-Fair
 
 #### EEE-Bench: A Comprehensive Multimodal Electrical And Electronics Engineering Benchmark
 - Link：[https://arxiv.org/pdf/2411.01492](https://arxiv.org/pdf/2411.01492)
@@ -840,10 +1210,16 @@
 - Link：[https://arxiv.org/pdf/2406.00783](https://arxiv.org/pdf/2406.00783)
 - Code：[https://github.com/Purdue-M2/AI-Face-FairnessBench](https://github.com/Purdue-M2/AI-Face-FairnessBench)
 
+#### Training Data Provenance Verification: Did Your Model Use Synthetic Data from My Generative Model for Training?
+- Link：https://github.com/xieyc99/TrainProVe
+- Code：https://github.com/xieyc99/TrainProVe
+
 <a name="Unlearning"></a>
 # 反学习(Machine Unlearning)
 
-
+#### MINT - Demo: Membership Inference Test Demonstrator
+- Link：无
+- Code：无
 
 <a name="New-Tasks"></a>
 # 新任务(New Tasks)
