@@ -89,6 +89,8 @@
 
 # 3DGS(Gaussian Splatting)
 
+
+
 #### DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation
 - Link：[https://arxiv.org/pdf/2503.06900](https://arxiv.org/pdf/2503.06900)
 
@@ -174,6 +176,10 @@
 <a name="TP"></a>
 # 轨迹预测(Trajectory Prediction)
 
+#### Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM
+- Link：[https://arxiv.org/pdf/2503.10898](https://arxiv.org/pdf/2503.10898)
+- Code：[https://github.com/YiZhou-H/Trajectory-Mamba-CVPR](https://github.com/YiZhou-H/Trajectory-Mamba-CVPR)
+
 #### MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation
 - Link：[https://arxiv.org/pdf/2503.09950](https://arxiv.org/pdf/2503.09950)
 - Code：[https://moflow-imle.github.io](https://moflow-imle.github.io)
@@ -202,6 +208,14 @@
 <a name="Autonomous-Driving"></a>
 
 # 自动驾驶(Autonomous Driving)
+
+#### DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation
+- Link：[https://arxiv.org/pdf/2503.11122](https://arxiv.org/pdf/2503.11122)
+- Code：[https://github.com/Hongbin98/DriveGEN](https://github.com/Hongbin98/DriveGEN)
+
+#### Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models
+- Link：[https://arxiv.org/pdf/2412.05334](https://arxiv.org/pdf/2412.05334)
+- Code：[https://github.com/NVlabs/catk](https://github.com/NVlabs/catk)
 
 #### CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving
 - Link：[https://arxiv.org/pdf/2502.19908](https://arxiv.org/pdf/2502.19908)
@@ -308,6 +322,10 @@
 <a name="VLM"></a>
 # 视觉语言模型(LLM)
 
+#### Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts
+- Link：[https://arxiv.org/pdf/2411.15432](https://arxiv.org/pdf/2411.15432)
+- Code：[https://github.com/qizhou000/LiveEdit](https://github.com/qizhou000/LiveEdit)
+
 #### GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks
 - Link：[https://arxiv.org/pdf/2503.06514](https://arxiv.org/pdf/2503.06514)
 
@@ -347,7 +365,9 @@
 #### Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces
 - Link：[https://arxiv.org/pdf/2503.05283](https://arxiv.org/pdf/2503.05283)
 
-
+#### Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention
+- Link：[https://arxiv.org/pdf/2406.12718](https://arxiv.org/pdf/2406.12718)
+- Code：[https://github.com/Lackel/AGLA](https://github.com/Lackel/AGLA)
 
 
 #### Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy
@@ -375,6 +395,11 @@
 <a name="multimodal"></a>
 
 # 多模态
+
+#### Discovering Hidden Visual Concepts Beyond Linguistic Input in Infant Learning
+- Link：[https://arxiv.org/pdf/2501.05205](https://arxiv.org/pdf/2501.05205)
+
+
 
 #### Towards Open - Vocabulary Audio - Visual Event Localization
 - Link：[https://arxiv.org/pdf/2411.11278](https://arxiv.org/pdf/2411.11278)
@@ -492,6 +517,14 @@
 <a name="Diffusion"></a>
 
 # 扩散模型(Diffusion Models)
+
+#### Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models
+- Link：[https://arxiv.org/pdf/2503.11071](https://arxiv.org/pdf/2503.11071)
+- Code：[https://github.com/sccsok/CoprGuard.git](https://github.com/sccsok/CoprGuard.git)
+
+#### Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards
+- Link：[https://arxiv.org/pdf/2503.11240](https://arxiv.org/pdf/2503.11240)
+- Code：[https://github.com/hu-zijing/B2-DiffuRL](https://github.com/hu-zijing/B2-DiffuRL)
 
 #### PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model
 - Link：https://arxiv.org/pdf/2503.06186
@@ -613,6 +646,12 @@
 
 # 异常检测(Anomaly Detection)
 
+：
+
+#### Rethinking Epistemic and Aleatoric Uncertainty for Active Open-Set Annotation: An Energy-Based Approach
+- Link：[https://arxiv.org/pdf/2502.19691](https://arxiv.org/pdf/2502.19691)
+- Code：[https://github.com/chenchenzong/EAOA](https://github.com/chenchenzong/EAOA)
+
 #### UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection
 - Link：[https://arxiv.org/pdf/2412.03342](https://arxiv.org/pdf/2412.03342)
 - Code：[https://github.com/FantasticGNU/UniVAD](https://github.com/FantasticGNU/UniVAD)
@@ -678,6 +717,9 @@
 <a name="MI"></a>
 
 # 医学图像(Medical Image)
+
+#### Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation
+- Link：[https://arxiv.org/pdf/2503.11140](https://arxiv.org/pdf/2503.11140)
 
 #### Q - PART: Quasi - Periodic Adaptive Regression with Test - time Training for Pediatric Left Ventricular Ejection Fraction Regression
 - Link：[https://arxiv.org/pdf/2503.04131](https://arxiv.org/pdf/2503.04131)
@@ -802,6 +844,10 @@
 <a name="SSL"></a>
 # 自监督学习(Self-supervised Learning)
 
+#### Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data
+- Link：[https://arxiv.org/pdf/2503.11032](https://arxiv.org/pdf/2503.11032)
+
+
 #### Rethinking Epistemic and Aleatoric Uncertainty for Active Open-Set Annotation: An Energy-Based Approach
 - Link：[https://arxiv.org/pdf/2502.19691](https://arxiv.org/pdf/2502.19691)
 - Code：[https://github.com/chenchenzong/EAOA](https://github.com/chenchenzong/EAOA)
@@ -812,6 +858,10 @@
 
 <a name="bio"></a>
 # 生物工程(bioengineering)
+
+#### Homogeneous Dynamics Space for Heterogeneous Humans
+- Link：[https://arxiv.org/pdf/2412.06146](https://arxiv.org/pdf/2412.06146)
+- Code：[https://foruck.github.io/HDyS](https://foruck.github.io/HDyS)
 
 #### Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis
 - Link：[https://arxiv.org/pdf/2503.09556](https://arxiv.org/pdf/2503.09556)
@@ -947,6 +997,11 @@
 
 # 图像生成(Image Generation)
 
+
+#### Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions
+- Link：[https://arxiv.org/pdf/2403.17064](https://arxiv.org/pdf/2403.17064)
+- Code：[https://github.com/CompVis/attribute-control](https://github.com/CompVis/attribute-control)
+
 #### Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network
 - Link：[https://arxiv.org/pdf/2502.19754](https://arxiv.org/pdf/2502.19754)
 - Code：[https://github.com/Qiu-XY/LDSB](https://github.com/Qiu-XY/LDSB)
@@ -970,6 +1025,10 @@
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
+
+#### Tora: Trajectory-oriented Diffusion Transformer for Video Generation
+- Link：[https://arxiv.org/pdf/2407.21705](https://arxiv.org/pdf/2407.21705)
+- Code：[https://github.com/alibaba/Tora](https://github.com/alibaba/Tora)
 
 #### Mind the Time: Temporally-Controlled Multi-Event Video Generation
 - Link：[https://arxiv.org/pdf/2412.05263](https://arxiv.org/pdf/2412.05263)
@@ -1000,6 +1059,10 @@
 <a name="3D-Generation"></a>
 # 3D生成
 
+#### GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior
+- Link：[https://arxiv.org/pdf/2503.11143](https://arxiv.org/pdf/2503.11143)
+- Code：[https://github.com/silence-tang/GaussianIP](https://github.com/silence-tang/GaussianIP)
+
 #### InsTaG: Learning Personalized 3D Talking Head from Few-Second Video
 - Link：[https://arxiv.org/pdf/2502.20387](https://arxiv.org/pdf/2502.20387)
 - Code：[https://fictionarry.github.io/InsTaG/](https://fictionarry.github.io/InsTaG/)
@@ -1022,6 +1085,10 @@
 <a name="Video-Understanding"></a>
 
 # 视频理解(Video Understanding)
+
+#### VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos
+- Link：[https://arxiv.org/pdf/2405.19209](https://arxiv.org/pdf/2405.19209)
+- Code：[https://videotree2024.github.io/](https://videotree2024.github.io/)
 
 #### BIMBA: Selective-Scan Compression for Long-Range Video Question Answering
 - Link：[https://arxiv.org/pdf/2503.09590](https://arxiv.org/pdf/2503.09590)
@@ -1142,6 +1209,10 @@
 <a name="IQA"></a>
 
 # 图像质量评价(Image Quality Assessment)
+
+#### Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption
+- Link：[https://arxiv.org/pdf/2503.11221](https://arxiv.org/pdf/2503.11221)
+- Code：[https://tianhewu.github.io/A-FINE-page.github.io/](https://tianhewu.github.io/A-FINE-page.github.io/)
 
 #### SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model
 - Link：[https://arxiv.org/pdf/2412.04292](https://arxiv.org/pdf/2412.04292)
