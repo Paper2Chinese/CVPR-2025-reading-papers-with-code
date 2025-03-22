@@ -189,6 +189,10 @@
 
 # Mamba / SSM
 
+#### Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing
+- Link：
+- Code：https://github.com/Clausy9/BMTNet
+
 #### MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models
 - Link：[https://arxiv.org/pdf/2405.14338](https://arxiv.org/pdf/2405.14338)
 - Code：[https://github.com/IRMVLab/Mamba4D](https://github.com/IRMVLab/Mamba4D)
@@ -200,7 +204,7 @@
 #### QMambaBSR: Burst Image Super-Resolution with Query State Space Model
 - Link：[https://arxiv.org/pdf/2408.08665](https://arxiv.org/pdf/2408.08665)
 - Code：
-- 
+
 <a name="Avatars"></a>
 
 # Avatars
@@ -258,6 +262,10 @@
 
 # CLIP
 
+#### OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP
+- Link：
+- Code：
+
 #### CLIP Under the Microscope: A Fine-Grained Analysis of Multi-Object Representation
 - Link：[https://arxiv.org/pdf/2502.19842](https://arxiv.org/pdf/2502.19842)
 - Code：[https://clip-analysis.github.io/](https://clip-analysis.github.io/)
@@ -307,6 +315,10 @@
 
 # Prompt
 
+#### Probabilistic Prompt Distribution Learning for Animal Pose Estimation
+- Link：
+- Code：https://github.com/Raojiyong/PPAP
+
 #### Reasoning to Attend: Try to Understand How <SEG> Token Works
 - Link：[https://arxiv.org/pdf/2412.17741](https://arxiv.org/pdf/2412.17741)
 - Code：[https://github.com/rui-qian/READ](https://github.com/rui-qian/READ)
@@ -321,6 +333,10 @@
 
 <a name="VLM"></a>
 # 视觉语言模型(LLM)
+
+#### Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness
+- Link：
+- Code：
 
 #### Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts
 - Link：[https://arxiv.org/pdf/2411.15432](https://arxiv.org/pdf/2411.15432)
@@ -362,6 +378,10 @@
 
 # 多模态大语言模型(MLLM)
 
+#### Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment
+- Link：
+- Code：
+
 #### Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces
 - Link：[https://arxiv.org/pdf/2503.05283](https://arxiv.org/pdf/2503.05283)
 
@@ -399,7 +419,9 @@
 #### Discovering Hidden Visual Concepts Beyond Linguistic Input in Infant Learning
 - Link：[https://arxiv.org/pdf/2501.05205](https://arxiv.org/pdf/2501.05205)
 
-
+#### SSHNet: Unsupervised Cross-modal Homography Estimation via Problem Reformulation and Split Optimization
+- Link：
+- Code：
 
 #### Towards Open - Vocabulary Audio - Visual Event Localization
 - Link：[https://arxiv.org/pdf/2411.11278](https://arxiv.org/pdf/2411.11278)
@@ -512,11 +534,21 @@
 #### Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness
 - Link：[https://arxiv.org/pdf/2503.09487](https://arxiv.org/pdf/2503.09487)
 
-
+#### From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning
+- Link：
+- Code：
 
 <a name="Diffusion"></a>
 
 # 扩散模型(Diffusion Models)
+
+#### VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness
+- Link：
+- Code：
+
+#### Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation
+- Link：
+- Code：https://github.com/mkarmann/m2n2
 
 #### Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models
 - Link：[https://arxiv.org/pdf/2503.11071](https://arxiv.org/pdf/2503.11071)
@@ -613,6 +645,9 @@
 #### Associative Transformer
 - Link：[https://arxiv.org/pdf/2309.12862](https://arxiv.org/pdf/2309.12862)
 
+#### Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis
+- Link：
+- Code：
 
 <a name="VL"></a>
 
@@ -707,7 +742,9 @@
 - Link：[https://arxiv.org/pdf/2502.19844](https://arxiv.org/pdf/2502.19844)
 - Code：[https://github.com/MorningStarOvO/ProAPO](https://github.com/MorningStarOvO/ProAPO)
 
-
+#### Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model
+- Link：
+- Code：https://github.com/ZhaochongAn/GFS-VL
 
   
 <a name="bio"></a>
@@ -792,6 +829,10 @@
 
 # 3D点云(3D-Point-Cloud)
 
+#### LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes
+- Link：
+- Code：
+
 #### GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors
 - Link：[https://arxiv.org/pdf/2502.19896](https://arxiv.org/pdf/2502.19896)
 
@@ -843,6 +884,10 @@
 
 <a name="SSL"></a>
 # 自监督学习(Self-supervised Learning)
+
+#### Sonata: Self-Supervised Learning of Reliable Point Representations
+- Link：
+- Code：
 
 #### Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data
 - Link：[https://arxiv.org/pdf/2503.11032](https://arxiv.org/pdf/2503.11032)
@@ -898,8 +943,12 @@
 - Link：[https://arxiv.org/pdf/2410.00911](https://arxiv.org/pdf/2410.00911)
 - Code：[https://github.com/Estrella-fugaz/CVPR25-Duct](https://github.com/Estrella-fugaz/CVPR25-Duct)
 
+<a name="#3DOD"></a>
+# 3D目标检测(3D Object Detection)
 
-
+#### Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection
+- Link：
+- Code：
 
 
 <a name="3DOD"></a>
@@ -1026,6 +1075,10 @@
 
 # 视频生成(Video Generation)
 
+#### Multi-subject Open-set Personalization in Video Generation
+- Link：
+- Code：
+
 #### Tora: Trajectory-oriented Diffusion Transformer for Video Generation
 - Link：[https://arxiv.org/pdf/2407.21705](https://arxiv.org/pdf/2407.21705)
 - Code：[https://github.com/alibaba/Tora](https://github.com/alibaba/Tora)
@@ -1127,6 +1180,10 @@
 <a name="Action-Recognition"></a>
 
 # 行为识别(Action Recognition)
+
+#### Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition
+- Link：
+- Code：https://github.com/firework8/ProtoGCN
 
 #### TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation
 - Link：[https://arxiv.org/abs/2408.17135](https://arxiv.org/abs/2408.17135)
